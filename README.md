@@ -1,1 +1,2 @@
 # odin-recipes
+    In this lesson I will be creating a webpage which includes a series of recipe links. Through this project, I will be able to demonstrate the skills that I have learned thus far pertaining to HTML. These skills include creating and editing information within files, staging files, and committing files. Hopefully, this will be an excellent reference to the progress I have made in the future.
